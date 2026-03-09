@@ -6,11 +6,9 @@
 
 ## 📸 Screenshots
 
-> O projeto está assim, segue os prints.
+> O projeto está em ajuste no frontend.
 
 ![Tela principal](./docs/screenshot-main.png)
-
-![Modal](./docs/screenshot-1773059251115.png)
 
 ---
 
@@ -22,7 +20,7 @@
 - ▶️ **Player completo** com play, pause, próximo, anterior, repetir e embaralhar
 - ⏱️ **Barra de progresso** com fill dinâmico e seek por clique/arraste
 - 🔊 **Controle de volume** persistido no localStorage
-- 💾 **Posição salva** — retoma de onde parou ao reabrir
+- 💾 **Posição salva** retoma de onde parou ao reabrir
 - 🃏 **Carrossel de audiobooks** com botões anterior/próximo
 - 📖 **Modal de descrição completa** com backdrop blur
 - 📱 **Layout responsivo** para mobile e tablet
