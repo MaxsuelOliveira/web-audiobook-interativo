@@ -33,7 +33,7 @@ O projeto é **100% frontend** — sem build, sem dependências, sem servidor.
 
 ```text
 # Clone o repositório
-git clone https://github.com/seu-usuario/web-audiobook-interativo.git
+git clone https://github.com/MaxsuelOliveira/web-audiobook-interativo.git
 
 # Abra o index.html diretamente no navegador
 # OU use o Live Server do VS Code
